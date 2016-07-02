@@ -51,9 +51,9 @@ You incorparate the directive in your html file in the follwoing manner:
         </li>
     </ul>
 </p>
-<p>
+
 [Go to Angular-Revive page](https://yuvaloren6.github.io/angular-revive/)
-</p>
-<p>
+
+
 [Go to Angular-groupSort page](https://yuvaloren6.github.io/angular-groupSort/)
-</p>
+
